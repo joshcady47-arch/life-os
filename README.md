@@ -1,4 +1,4 @@
-# Josh Cady — Life Repo 🏡
+# Josh Cady — Life OS 🏡
 
 This repository is the single source of truth for Josh's personal, professional, and family life. It's organized by person and domain so AI tools, automations, and Josh himself always know where things live.
 
