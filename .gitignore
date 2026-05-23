@@ -1,0 +1,31 @@
+# Secrets & credentials
+*.env
+.env.*
+secrets/
+credentials/
+*.key
+*.pem
+
+# Personal health & finance data
+family/finances/
+*/health/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+
+# Editor
+.vscode/
+.idea/
+*.swp
